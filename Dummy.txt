@@ -1,0 +1,3 @@
+GetDato(){
+	//some code here
+}
